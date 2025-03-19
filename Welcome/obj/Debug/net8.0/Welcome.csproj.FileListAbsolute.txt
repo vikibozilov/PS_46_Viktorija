@@ -1,0 +1,14 @@
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\bin\Debug\net8.0\Welcome.exe
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\bin\Debug\net8.0\Welcome.deps.json
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\bin\Debug\net8.0\Welcome.dll
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\bin\Debug\net8.0\Welcome.pdb
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\obj\Debug\net8.0\Welcome.dll
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\obj\Debug\net8.0\Welcome.pdb
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+C:\Users\ivano\OneDrive\Desktop\PS_46_Kristijan\Welcome\obj\Debug\net8.0\ref\Welcome.dll

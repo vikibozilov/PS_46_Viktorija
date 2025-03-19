@@ -1,0 +1,10 @@
+3/12/2024 8:00:52 PM [Information] - This is an information message.
+3/12/2024 8:00:52 PM [Error] - An error occurred.
+3/12/2024 8:06:24 PM [Information] - This is an information message.
+3/12/2024 8:06:24 PM [Error] - An error occurred.
+3/12/2024 8:07:29 PM [Information] - This is an information message.
+3/12/2024 8:07:29 PM [Error] - An error occurred.
+3/12/2024 8:09:21 PM [Information] - This is an information message.
+3/12/2024 8:09:21 PM [Error] - An error occurred.
+3/12/2024 8:09:37 PM [Information] - This is an information message.
+3/12/2024 8:09:37 PM [Error] - An error occurred.
